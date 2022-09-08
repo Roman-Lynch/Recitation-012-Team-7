@@ -7,3 +7,5 @@ Team Members: All
 - Roman Lynch (Roman-Lynch)
 - Kartik Sharma (Karsharma10)
 - Julio Gonzalez (flextwaft)
+
+This is practice Lab3 for learning about commit erorrs.
