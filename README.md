@@ -8,3 +8,7 @@ Team Members: All
 - Roman Lynch (Roman-Lynch)
 - Kartik Sharma (Karsharma10)
 - Julio Gonzalez (flextwaft)
+
+Practice doing Git merges and request-related things
+
+Edited file for demo
